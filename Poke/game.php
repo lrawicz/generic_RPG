@@ -31,6 +31,8 @@ foreach ($pokemon->getWeapons() as $key => $weapon) {
 }
 
 
+
+
 //echo ("Magical Damage : " . $pokemon->getStatValue(Stats::MagDam)) . PHP_EOL;
 //echo ("Magical Resistence : " . $pokemon->getStatValue(Stats::MagRes)) . PHP_EOL;
 //echo ("Fisical Damage : " . $pokemon->getStatValue(Stats::FisDam)) . PHP_EOL;
